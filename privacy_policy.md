@@ -9,10 +9,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way
+For a better experience, while using our Service, some features, such as the UNESVerse's Zhonyas, require you to provide us with certain personally identifiable information. The information that I request is retained on your device and send to the servers in a secure encrypted way. Those information are, but not limited to, name, course, disciplines you participated and your score on them. Some other features may explicty request you some information for you to vote or opt-in, and those are collected as well. The information collected by the app is not sold or shared with other third party companies or services. Are only kept for better user experience.
+
 The app does use third party services that may collect information used to identify you.
 Link to privacy policy of third party service providers used by the app
-[Google Play Services](https://www.google.com/policies/privacy/)
+[Google Play Services](https://www.google.com/policies/privacy/).
 
 ## Log Data
 

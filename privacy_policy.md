@@ -19,12 +19,6 @@ Link to privacy policy of third party service providers used by the app
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through Google Play Services) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-## Cookies
-
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
-
-This Service does not use these “cookies” explicitly. Those are used just to keep the connection to the Sagres
-
 ## Service Providers
 
 I may employ third-party companies and individuals due to the following reasons:
